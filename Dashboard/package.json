@@ -88,7 +88,7 @@
     "passport-facebook": "1.0.3",
     "passport-google-oauth": "0.1.5",
     "passport-local": "1.0.0",
-    "passport-oauth2": "1.1.2",
+    "passport-oauth2": "1.6.1",
     "passport-twitter": "1.0.2",
     "pm2": "^0.15.8",
     "request": "^2.65.0",
