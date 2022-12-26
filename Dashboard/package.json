@@ -4,7 +4,7 @@
   "description": "DCrawler with UI manager",
   "version": "0.1.1",
   "engines": {
-    "node": "4.2.x",
+    "node": "4.9.x",
     "npm": "2.1.x"
   },
   "homepage": "https://github.com/duyetdev/DCrawler",
