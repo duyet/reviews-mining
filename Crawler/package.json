@@ -27,7 +27,7 @@
     "iconv": "^2.1.6",
     "iconv-lite": "^0.4.7",
     "jschardet": "^1.1.1",
-    "jsdom": "^4.0.5",
+    "jsdom": "^16.5.0",
     "lodash": "^3.5.0",
     "mocha": "^2.2.1",
     "mocha-testdata": "^1.1.0",
