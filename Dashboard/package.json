@@ -78,7 +78,7 @@
     "loopback-component-explorer": "^2.1.1",
     "loopback-component-passport": "1.1.2",
     "loopback-component-storage": "1.2.0",
-    "loopback-connector-mongodb": "^1.11.3",
+    "loopback-connector-mongodb": "^3.6.0",
     "loopback-connector-rest": "^1.10.1",
     "loopback-datasource-juggler": "2.33.1",
     "loopback-sdk-angular": "git+https://github.com/duyetdev/loopback-sdk-angular.git",
